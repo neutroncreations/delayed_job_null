@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'delayed_job_null'
-  s.version       = '0.0.3'
-  s.date          = '2012-10-26'
+  s.version       = '0.0.4'
+  s.date          = '2012-11-07'
   s.summary       = "DelayedJob Null"
   s.description   = "A null delayed job backend"
   s.authors       = ["Marc Roberts"]
